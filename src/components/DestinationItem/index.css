@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.space {
+  margin: 20px;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
+p {
+  font-size: 20px;
+  font-family: 'Bree Serif';
+}
